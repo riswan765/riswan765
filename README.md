@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 Project Terbaru
-
-- [Uploader Sementara](https://github.com/riswan765/uploader-sementara)  
-  Web untuk upload file sementara. File-nya otomatis dihapus setelah 5 jam.  
-  Tanpa login, langsung upload aja.
-
----
-
 ## 📫 Kontak
 
 <p align="left">
